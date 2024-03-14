@@ -1,0 +1,10 @@
+git clone path
+ls
+cd GitTraining/
+ls
+touch file1
+ls
+git status
+git add .
+git commit -m "Hi"
+git push
